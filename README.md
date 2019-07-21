@@ -1,4 +1,4 @@
-# EIP-Global-Identity-Token
+# EIP: Global Identity Token
 
 ## Simple Summary
 
