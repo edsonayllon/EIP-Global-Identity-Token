@@ -1,4 +1,4 @@
-# EIP: Global Identity Token--ERC Proposal
+# EIP: Global Identity Token—ERC Proposal
 
 ```
 ---
