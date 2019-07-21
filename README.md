@@ -22,4 +22,4 @@ Where in previous iterations of the web, an email served as a means of identific
 
 ## Specification
 
-GITs must be from 4 characters to 15 characters.
+GITs must be from 4 characters to 15 characters, and cannot start with a number.
