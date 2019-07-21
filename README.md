@@ -18,7 +18,7 @@ The creation method of tokens may be up to discussion. However, it must be autom
 
 Standardizing username querying in decentralized applications. Instead of multiple decentralized applications creating a name for each user, each stored on the Ethereum chain, usernames may be queried from the holdings of a user's account, similar to querying an NFT or ERC20 token, preventing unneeded storage on the Ethereum chain. 
 
-Where in previous iterations of the web, an email served as a means of identification. Currently, Ethereum uses public and private key pairings, however, a username may be a more legible, memorable form of identification. GITs which will be tied to a public key, by which ownership remains with the private key. GITs will serve as more legible, memorable alternatives to public keys, without replacing a public key. 
+In previous iterations of the web, an email served as a means of identification. Currently, Ethereum uses public and private key pairings, however, a username may be a more legible, memorable form of identification. GITs which will be tied to a public key, by which ownership remains with the private key. GITs will serve as more legible, memorable alternatives to public keys, without replacing a public key. 
 
 ## Specification
 
