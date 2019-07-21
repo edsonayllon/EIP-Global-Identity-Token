@@ -1,5 +1,20 @@
 # EIP: Global Identity Token
 
+```
+---
+eip: <to be assigned>
+title: Global Identity Tokens
+author: Edson Ayllon (@edsonayllon)
+discussions-to: https://github.com/ethereum/EIPs/issues/2204
+status: Draft
+type: Standards Track
+category (*only required for Standard Track): ERC
+created: 2019-07-21
+requires (*optional): <EIP number(s)>
+---
+```
+
+
 ## Simple Summary
 
 A standard for optional global usernames to be queried by decentralized applications. 
