@@ -1,3 +1,11 @@
+---
+author: Edson Ayllon
+category: EIP
+status: discontinued
+personal-designation: Project 6-2019
+---
+
+
 # EIP: Global Identity Token—ERC Proposal
 
 ```
